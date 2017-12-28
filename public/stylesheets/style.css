@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 10px;
+    list-style: none;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    border: 1px soild black;
+    box-shadow: 10px soild black;
+}
